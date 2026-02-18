@@ -1,6 +1,6 @@
 ## Welcome to Mr. Adatto's profile! 👋
 
-![alt text](https://bbk12e1-cdn.myschoolcdn.com/ftpimages/748/logo/2021NewSiteLogoBanner.png "RE logo)
+![alt text](https://bbk12e1-cdn.myschoolcdn.com/ftpimages/748/logo/2021NewSiteLogoBanner.png "RE logo")
 <!--
 **mradatto/mradatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
