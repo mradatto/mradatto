@@ -1,4 +1,4 @@
-## Welcome to Mr. Adatto's profile 👋
+## Welcome to Mr. Adatto's profile! 👋
 
 <!--
 **mradatto/mradatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
